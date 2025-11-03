@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@hookform/resolvers": "^5.2.2",
+    "@supabase/supabase-js": "^2.76.1",
+    "@tailwindcss/vite": "^4.1.14",
+    "react-hook-form": "^7.65.0",
+    "tailwindcss": "^4.1.14",
+    "yup": "^1.7.1",
+    "html2canvas": "^1.4.1",
+  "jspdf": "^2.5.1"
+  }
+}
